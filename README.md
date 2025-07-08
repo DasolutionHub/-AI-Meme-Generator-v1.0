@@ -23,7 +23,7 @@ Create hilarious memes in just a few clicks:
 ---
 
 ## 🚀 How to Use
-1. Open the notebook in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YV9Eg_JkdMhutD3B2ougi0VNaTgZHX4m?usp=sharing)
+1. Open the notebook in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uhYGmdWgul5QG-f-EHYvpMoaMnddrAh6?usp=sharing)
 
    
 
