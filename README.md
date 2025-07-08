@@ -1,7 +1,7 @@
 # 🤖 AI Meme Generator
 
 <p align="center">
-  <img src="https://github.com/dasolutionhub/aimeme/raw/main/aimeme.png" alt="Ai Meme Generator Banner" />
+  <img src="https://github.com/dasolutionhub/-AI-Meme-Generator-v1.0/raw/main/aimeme.png" alt="AI-Meme Generator Banner" />
 </p>
 
 
